@@ -6,7 +6,9 @@ O sentinela news é um site de notícias diarias para todas as idades, atualizad
 # ╰┈➤Objetivo
 
 • Interface clara e objetiva
+
 • Adição rapida de notícias
+
 • Uma interface rsponsiva
 
 # Código 👾
