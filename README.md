@@ -16,5 +16,7 @@ O sentinela news é um site de notícias diarias para todas as idades, atualizad
 O código a seguir foi ultilizado:
 
 HTML
+
 CSS
+
 Java script
