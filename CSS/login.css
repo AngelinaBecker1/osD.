@@ -1,1 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #11000f;
+}
+
+.hamburguer {
+    background-color: #c346e6;
+    padding: 40px;
+    border-radius: 30px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 350px;
+}
+
+.hamburguer h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #070707;
+}
+
+.dogao {
+    margin-bottom: 20px;
+}
+
+.dogao label {
+    display: block;
+    margin-bottom: 8px;
+    color: #252525;
+}
+
+.dogao input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.dogao input:focus {
+    outline: none;
+    border-color: #41028871;
+}
+
+.pizza {
+    width: 100%;
+    padding: 12px;
+    background-color: #41028871;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.pizza:hover {
+    background-color: #41028871;
+}
+
+.sobremesa {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.sobremesa a {
+    color: #13002871;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.sobremesa a:hover {
+    text-decoration: underline;
+}
