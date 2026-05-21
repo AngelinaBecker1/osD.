@@ -11,6 +11,8 @@ O sentinela news é um site de notícias diarias para todas as idades, atualizad
 
 • Uma interface rsponsiva
 
+• Sistema de login e cadastro
+
 # Código 👾
 
 O código a seguir foi ultilizado:
