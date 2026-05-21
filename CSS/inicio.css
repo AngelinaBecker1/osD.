@@ -1,1 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    color: beige;
+    background-color: #ffffff;
+}
+
+.header {
+    background-color: rgb(184, 122, 184);
+    color: white;
+    padding: 15px 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
